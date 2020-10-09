@@ -1,0 +1,4 @@
+[submodule "test_lambda/unifyCore"]
+	path = test_lambda/unifyCore
+	url = https://github.com/rabi1813/core_test.git
+	branch = develop
